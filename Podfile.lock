@@ -1,0 +1,44 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Kingfisher (4.10.1)
+  - SnapKit (5.0.1)
+  - YandexMapKit (3.5.0):
+    - YandexRuntime (= 3.5.0)
+  - YandexMapKitPlaces (3.5.0):
+    - YandexMapKit (= 3.5.0)
+    - YandexRuntime (= 3.5.0)
+  - YandexMapKitSearch (3.5.0):
+    - YandexMapKit (= 3.5.0)
+    - YandexRuntime (= 3.5.0)
+  - YandexRuntime (3.5.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - Kingfisher (~> 4.0)
+  - SnapKit (~> 5.0.0)
+  - YandexMapKit (= 3.5)
+  - YandexMapKitPlaces (= 3.5)
+  - YandexMapKitSearch (= 3.5)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Kingfisher
+    - SnapKit
+    - YandexMapKit
+    - YandexMapKitPlaces
+    - YandexMapKitSearch
+    - YandexRuntime
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  YandexMapKit: ecd4b78de34a35df63d066ac299e6fd0fe46d1ba
+  YandexMapKitPlaces: 6bc38c5e6fa34870a3c718a0b7921bf159cae7ee
+  YandexMapKitSearch: b46ddd1c80e2e35d006cdfc4ab88070a50cebeda
+  YandexRuntime: 2d55244d06267106cf9b00c25a1e63f72a73b6fd
+
+PODFILE CHECKSUM: 65e2bf216a7b896b5987271e14c70ba6153998fa
+
+COCOAPODS: 1.9.1
